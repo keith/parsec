@@ -1,0 +1,3 @@
+[submodule "parsec.vim"]
+	path = parsec.vim
+	url = https://github.com/Keithbsmiley/parsec.vim.git
