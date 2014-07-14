@@ -8,9 +8,9 @@ highlighting.
 
 ## Examples
 
-![vim example]()
-![iTerm example]()
-![Xcode example]()
+![vim example](https://raw.githubusercontent.com/Keithbsmiley/parsec/master/screenshots/vim.png)
+![iTerm example](https://raw.githubusercontent.com/Keithbsmiley/parsec/master/screenshots/iterm.png)
+![Xcode example](https://raw.githubusercontent.com/Keithbsmiley/parsec/master/screenshots/xcode.png)
 
 ### New applications
 
