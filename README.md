@@ -6,6 +6,14 @@ uses [solarized](https://github.com/altercation/solarized)
 templates with custom colors to create a dark theme with proper
 highlighting.
 
+## Currently supported
+
+- Vim
+- iTerm2
+- Xcode
+- TextMate/Sublime (these are not in any package managers. It would be
+  awesome if you wanted to fix that)
+
 ## Examples
 
 ![vim example](https://raw.githubusercontent.com/Keithbsmiley/parsec/master/screenshots/vim.png)
