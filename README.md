@@ -10,7 +10,7 @@ highlighting.
 
 - Vim
 - iTerm2
-- Xcode
+- Xcode (move to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`)
 - TextMate/Sublime (these are not in any package managers. It would be
   awesome if you wanted to fix that)
 
