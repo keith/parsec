@@ -1,0 +1,22 @@
+{
+    "name": "vscode-theme-parsec",
+    "displayName": "parsec",
+    "description": "A color scheme for people tired of solarized",
+    "version": "0.0.1",
+    "publisher": "keith",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "parsec",
+                "uiTheme": "vs-dark",
+                "path": "./themes/parsec.tmTheme"
+            }
+        ]
+    }
+}
